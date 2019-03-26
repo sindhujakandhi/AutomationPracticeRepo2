@@ -39,7 +39,7 @@ public class SignUpPageTest {
 	}
 	
 	//Priority
-	@Test
+	@Test(priority = 1)
 	public void verifySignUpPageTest() {
 		
 		//Get data from excel
