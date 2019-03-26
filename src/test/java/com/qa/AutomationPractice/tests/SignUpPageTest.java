@@ -38,6 +38,7 @@ public class SignUpPageTest {
 		
 	}
 	
+	//Priority
 	@Test
 	public void verifySignUpPageTest() {
 		
